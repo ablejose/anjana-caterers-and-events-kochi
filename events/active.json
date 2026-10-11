@@ -1,0 +1,59 @@
+{
+  "slug": "anjana-caterers-and-events-kochi",
+  "name": "Anjana Caterers and Events",
+  "shortName": "Anjana",
+  "descriptor": "Catering & Events",
+  "address": "Pipe line, Palluruthy veli, road, Palluruthy, Kochi, Keralam 682006",
+  "area": "Palluruthy",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682006",
+  "geo": {
+    "lat": 9.9169023,
+    "lng": 76.2730878
+  },
+  "mapsLink": "https://maps.google.com/?cid=362940285964765690",
+  "phone": "+91 99611 42235",
+  "whatsapp": "919961142235",
+  "hours": "Open 7 am – 7 pm · all days",
+  "opens": "07:00",
+  "closes": "19:00",
+  "rating": 4.2,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "name": "Joseph Akshay",
+      "rating": 5,
+      "quote": "Best in kochi Every onam i like to eat sadiya from vijay Lakshmi catering. But from last year vijay laskshmi foods are very low quality and so many bad reviews so i prefer anjana catering. First tym i am eating from them, very tasty and quality food. Me and my friends also comment very nicely. Can be recommended. Staff was very friendly"
+    },
+    {
+      "name": "ABHIRAMI K M",
+      "rating": 5,
+      "quote": "Their service was really nice and dishes were really tasty. I felt completely taken care of the team went everything smoothly. Every detail was perfect and our guests liked the food very much."
+    },
+    {
+      "name": "Gurupriya ks",
+      "rating": 5,
+      "quote": "Your service and food were outstanding. The food is always delicious. It's please to do an order again."
+    },
+    {
+      "name": "meenakshy meenu",
+      "rating": 5,
+      "quote": "Well Satisfied with their Service 💯💯 Good Food with Taste & Hygiene.. Budget Friendly & much creative in Event Management... The perfect wedding + event management team 💯💯"
+    },
+    {
+      "name": "Christy Joy",
+      "rating": 5,
+      "quote": "I am a regular client of Anjana caterers and event one of the best in business ,genuine team and the Sadhya there is the best , stage we will get the best and latest with best price available in market I suggest them to anyone who ask me about event"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://anjana-caterers-and-events-kochi.vercel.app"
+}
